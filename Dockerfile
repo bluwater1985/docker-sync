@@ -1,1 +1,1 @@
-FROM bytemark/webdav:latest
+FROM byndy/webdav:latest
